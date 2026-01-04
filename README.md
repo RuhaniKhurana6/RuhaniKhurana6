@@ -50,7 +50,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ruhani-khurana-171b58328">
+  <a href="https://www.linkedin.com/in/ruhani-khurana-171b58328/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/RuhaniKhurana6">
