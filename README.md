@@ -1,16 +1,73 @@
-## Hi there 👋
+<!-- ===================== HERO ===================== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RuhaniKhurana/RuhaniKhurana/main/coding.png" width="420" />
+</p>
 
-<!--
-**RuhaniKhurana6/RuhaniKhurana6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?
+    color=00E5C9&
+    size=46&
+    center=true&
+    vCenter=true&
+    width=900&
+    lines=Hi,+I'm+Ruhani+Khurana;Cybersecurity+%26+GenAI+Developer;Building+Secure+Intelligent+Systems" 
+  />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+- 🔐 Passionate about **Cybersecurity & Ethical Hacking**
+- 🤖 Exploring **GenAI, LLMs & RAG systems**
+- ☁️ Working with **Azure Cloud & secure backend engineering**
+- 🎯 Focused on **internship-ready, real-world skills**
+
+---
+
+## 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,nodejs,fastapi,react,python,c,cpp,html,css,js,linux,kali&theme=dark" />
+</p>
+
+---
+
+## 🏆 Achievements & Certifications
+
+> Progress over noise. Skill over hype.
+
+- **GenAI Exchange 2025** — *Finalist*
+- **TryHackMe** — Cybersecurity 101
+- **PreSecurity Path** — Certificate of Completion
+- **Hack The Box / OverTheWire** — Hands-on wargames & labs
+
+---
+
+## 🧠 Interests & Focus Areas
+
+- Secure backend & API development  
+- Offensive security fundamentals (CTFs)  
+- Applied GenAI for practical use cases  
+- Cloud security & system hardening  
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/YOUR-GITHUB-ID">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Learning quietly. Building securely. Growing consistently.</sub>
+</p>
+
