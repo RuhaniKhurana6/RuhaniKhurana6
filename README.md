@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&color=00E5C9&lines=Cybersecurity+%26+GenAI+Developer;Building+Secure+Intelligent+Systems" />
 
 <p align="center">
-  <img src="" width="420" />
+  <img src="coding girl-кодирующая девушка.jpeg" width="420" />
 </p>
 
 ---
