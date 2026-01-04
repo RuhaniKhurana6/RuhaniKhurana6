@@ -1,18 +1,12 @@
 <!-- ===================== HERO ===================== -->
+<h1 align="center">RUHANI KHURANA</h1>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RuhaniKhurana/RuhaniKhurana/main/coding.png" width="420" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&color=00E5C9&lines=Cybersecurity+%26+GenAI+Developer;Building+Secure+Intelligent+Systems" />
 </p>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?
-    color=00E5C9&
-    size=46&
-    center=true&
-    vCenter=true&
-    width=900&
-    lines=Hi,+I'm+Ruhani+Khurana;Cybersecurity+%26+GenAI+Developer;Building+Secure+Intelligent+Systems" 
-  />
+  <img src="https://raw.githubusercontent.com/RuhaniKhurana/RuhaniKhurana/main/hero.png" width="420" />
 </p>
 
 ---
