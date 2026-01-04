@@ -3,10 +3,9 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&center=true&vCenter=true&width=800&color=00E5C9&lines=Cybersecurity+%26+GenAI+Developer;Building+Secure+Intelligent+Systems" />
-</p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/RuhaniKhurana/RuhaniKhurana/main/hero.png" width="420" />
+  <img src="" width="420" />
 </p>
 
 ---
